@@ -1,2 +1,2 @@
 # python3
-for study
+This repository is mainly for studying various skills about python3.
