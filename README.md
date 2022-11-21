@@ -1,2 +1,2 @@
-# algolism
-This repository is mainly for studying various skills about algolism.
+# algorism
+This repository is mainly for studying various skills about algorism.
