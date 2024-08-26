@@ -1,2 +1,2 @@
-# algorism
+# algorithm_implementation
 勉強して目に留まったアルゴリズムを自由な言語で実装するだけ.
