@@ -1,9 +1,2 @@
 # algorism
-This repository is mainly for studying various mathmatical algorism.
-
-## Target competition
-- kaggle
-- atcoder
-
-Kaggle is for learning ML dev technique.
-Atcoder is for learning various algorithms.
+勉強して目に留まったアルゴリズムを自由な言語で実装するだけ.
